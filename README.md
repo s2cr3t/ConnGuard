@@ -1,6 +1,7 @@
 # ConnGuard
 
 `ConnGuard` 是一个用于监控网络连接、识别海外 IP、报警并记录机器唯一标识的工具。它提供了实时的 TCP 连接监控，帮助用户及时了解网络状态，并对不安全的海外 IP 地址发出警报。
+![image](https://github.com/user-attachments/assets/d5f9d840-238c-4e8e-bb68-a2c323a4a902)
 
 ## 功能
 
